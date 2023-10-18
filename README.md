@@ -1,1 +1,1 @@
-# Creadit-Card-Generator
+# credit-card-generator
